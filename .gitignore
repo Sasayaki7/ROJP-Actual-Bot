@@ -1,0 +1,15 @@
+token.txt
+initializer.py
+backups/
+errorJson.json
+*.lua
+util/new 1.txt
+util/pageMenu
+util/test.py
+**/__pycache__
+cogs/Starboard/
+cogs/Links/
+cogs/Basic/
+cogs/Fortune/
+New Text Document.txt
+cogs/Logs/
